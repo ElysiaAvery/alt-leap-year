@@ -1,0 +1,10 @@
+.container {
+  display: block;
+  margin: auto;
+  width: 400px;
+  height: auto;
+}
+
+.form-control {
+  width: 37%;
+}
