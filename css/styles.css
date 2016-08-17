@@ -2,6 +2,24 @@ body {
   padding: 50px;
 }
 
+h1  {
+  padding: 5px;
+}
+
+form {
+  padding: 5px;
+}
+
+input {
+  margin-top: 5px;
+  margin-bottom: 5px;
+}
+
+button {
+  margin-top: 5px;
+  margin-bottom: 5px;
+}
+
 .container {
   display: block;
   margin: auto;
@@ -15,4 +33,5 @@ body {
 
 #output {
   display: none;
+  padding: 5px;
 }
